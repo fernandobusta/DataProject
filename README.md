@@ -1,4 +1,5 @@
-# DATA MANAGER APP
+
+# DATA MANAGER APP
 
 This is not the app, rather a step by step of API connections to fetch data from google.
 

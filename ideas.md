@@ -1,4 +1,5 @@
-# Ideas
+
+# Ideas
 
 ## Database and APIs
 - Save searches in the db
