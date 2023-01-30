@@ -7,3 +7,22 @@
 	- This saves money, as keeping something in the db is less expensive constantly running API calls
 	- Maybe delete after a certain time, if too much space is occupied
 	- If the new search has different values, but the same location, only search for the new values and get the rest of the parameters from the db
+
+## Info to retrieve
+
+### Basic Data
+- formatted_address
+- icon
+- name
+- permanently_closed
+- type
+- vicinity ?
+- wheelchair_accessible_entrance
+
+### Contact Field Data
+- opening_hours
+- website
+
+### Atmosphere Data Fields
+- rating
+- reviews
