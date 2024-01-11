@@ -1,0 +1,5 @@
+info_etc
+__pycache__/
+.DS_Store
+Processing-data/apiK.py
+spyder/spyder/settings.py
